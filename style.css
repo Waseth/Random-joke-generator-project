@@ -1,13 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 html{
     font-size: 10px;
-    font-family: 'Montserrat',sans-serif;
+    font-family: fantasy;
+
 }
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap'); */
 body{
     background-color: burlywood;
     color: cyan;
@@ -29,6 +25,11 @@ section{
     align-items: center;
     justify-content: center;
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .whole{
     width: 90%;
     max-width: 500px;
@@ -40,13 +41,7 @@ section{
     flex-direction: column;
 
 }
-.whole p{
-    font-size: 2rem;
-    font-weight: 300;
-    line-height: 3rem;
-    text-align: justify;
-    color: black;
-}
+
 button{
     margin-top: 5rem;
     width: fit-content;
@@ -60,4 +55,11 @@ button{
     align-self: center;
     border: solid white 4px;
     box-shadow: inset black 3px 3px;
+}
+.whole p{
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 3rem;
+    text-align: justify;
+    color: rgb(19, 8, 116);
 }
