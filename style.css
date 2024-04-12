@@ -52,8 +52,8 @@ button{
     width: fit-content;
     padding: 2rem;
     font-size: 2rem;
-    background-color: cornflowerblue;
-    color: blue;
+    background-color: rgb(158, 109, 242);
+    color: white;
     border: none;
     border-radius: 20px;
     cursor: pointer;
