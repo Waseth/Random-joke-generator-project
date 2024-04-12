@@ -58,6 +58,6 @@ button{
     border-radius: 20px;
     cursor: pointer;
     align-self: center;
-
+    border: solid white 4px;
 
 }
