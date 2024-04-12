@@ -13,6 +13,10 @@ body{
     color: cyan;
     background-image: url(aa776e748366e503b8a2fdc6f7369cbc.png);
     background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+
 }
 section{
     min-height: 100vh;
