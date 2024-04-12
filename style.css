@@ -12,6 +12,7 @@ body{
     background-color: burlywood;
     color: cyan;
     background-image: url(aa776e748366e503b8a2fdc6f7369cbc.png);
+    background-repeat: no-repeat;
 }
 section{
     min-height: 100vh;
